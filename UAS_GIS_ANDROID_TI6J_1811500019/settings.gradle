@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "UAS_GIS_ANDROID_TI6J_1811500019"
